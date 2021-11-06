@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+  }
+  
+  body {
+    background-image: url("https://static.toiimg.com/thumb/msid-81481245,width-1200,height-900,resizemode-4/.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  form {
+    margin-top: 50px;
+    background: rgba(44, 62, 80, 0.95);
+    max-width: 50%;
+    max-height: 50%;
+  }
+  
+  #submit {
+    background: #3498db;
+  }
+  
